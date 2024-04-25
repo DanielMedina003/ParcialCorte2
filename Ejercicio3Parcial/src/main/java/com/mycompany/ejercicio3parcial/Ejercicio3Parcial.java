@@ -11,11 +11,7 @@ public class Ejercicio3Parcial {
         electrodomestico1.comprobarColor("Blanco");
         electrodomestico1.comprobarConsumoEnergetico('C');
         
-        System.out.println("El costo de la lavadora es: " + getprecio());
+        System.out.println("El costo de la lavadora es: " );
         
-    }
-
-    private static String getprecio() {
-        throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
     }
 }
